@@ -27,16 +27,16 @@ function about() {
             </article>
             <article className="about_card">
               <FiUsers className='about_icon'/>
-              <h5>Clients</h5>
-              <small>200+ Clients</small>
+              <h5>College</h5>
+              <small>Georgia State University</small>
             </article>
             <article className="about_card">
               <VscFolderLibrary className='about_icon'/>
-              <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <h5>General Assembly</h5>
+              <small>420 hours completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda repellendus dicta aperiam asperiores quis est ipsum sint velit beatae voluptatum cupiditate unde, facilis itaque ab cum non, commodi quam blanditiis!</p>
+          <p>Hello World, My Name Is Nathan Louissaint A Full Stack Developer With Years Of Experience Spent Dedicating And Crafting My Life’s Work To Help Grow Companies And Provide The Best Assistance Possible To People Who Want To Take Up A Career In Tech I Have Built Several Projects Showcasing My Work If You Have Any Questions Please Feel Free To Contact Me </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
