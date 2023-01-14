@@ -44,7 +44,7 @@ function experience() {
             <article className='experience_details'>
               <BsPatchCheckFill className="experience_details-icon"/>
               <div>
-                <h4>JQUERY</h4>
+                <h4>PYTHON</h4>
                 <small className='text-light'>Experienced</small>            
               </div>
             </article>
@@ -80,7 +80,7 @@ function experience() {
             <article className='experience_details'>
               <BsPatchCheckFill className="experience_details-icon"/>
               <div>
-                <h4>PHP</h4>
+                <h4>DJANGO</h4>
                 <small className='text-light'>Experienced</small>            
               </div>
             </article>
@@ -94,7 +94,7 @@ function experience() {
             <article className='experience_details'>
               <BsPatchCheckFill className="experience_details-icon"/>
               <div>
-                <h4>PYTHON</h4>
+                <h4>POSTGRESQL</h4>
                 <small className='text-light'>Experienced</small>            
               </div>
             </article>
