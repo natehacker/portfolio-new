@@ -2,10 +2,10 @@ import React from 'react'
 import './testimonials.css'
 
 import Img1 from '../../assests/f1.jpg'
-import Img2 from '../../assests/f2.jpg'
-import Img3 from '../../assests/f3.jpg'
-import Img4 from '../../assests/f4.jpg'
-import Img5 from '../../assests/f5.jpg'
+// import Img2 from '../../assests/f2.jpg'
+// import Img3 from '../../assests/f3.jpg'
+// import Img4 from '../../assests/f4.jpg'
+// import Img5 from '../../assests/f5.jpg'
 
 // import Swiper core and required modules
 import {Pagination} from 'swiper';
@@ -21,29 +21,29 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: Img1,
-    name: 'MadStar',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi reprehenderit maiores fugiat in voluptatem necessitatibus deleniti. Voluptatem, eius id animi, quos aspernatur velit eligendi fuga dolor, asperiores totam ducimus atque.'
+    name: 'Steve Grayes',
+    review: 'iogojg'
   },
-  {
-    avatar: Img2,
-    name: 'Dethshot',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi reprehenderit maiores fugiat in voluptatem necessitatibus deleniti. Voluptatem, eius id animi, quos aspernatur velit eligendi fuga dolor, asperiores totam ducimus atque.'
-  },
-  {
-    avatar: Img5,
-    name: 'Wanda Maximoff',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi reprehenderit maiores fugiat in voluptatem necessitatibus deleniti. Voluptatem, eius id animi, quos aspernatur velit eligendi fuga dolor, asperiores totam ducimus atque.'
-  },
-  {
-    avatar: Img3,
-    name: 'Albert Parker',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi reprehenderit maiores fugiat in voluptatem necessitatibus deleniti. Voluptatem, eius id animi, quos aspernatur velit eligendi fuga dolor, asperiores totam ducimus atque.'
-  },
-  {
-    avatar: Img4,
-    name: 'Glaxy Buster',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi reprehenderit maiores fugiat in voluptatem necessitatibus deleniti. Voluptatem, eius id animi, quos aspernatur velit eligendi fuga dolor, asperiores totam ducimus atque.'
-  },
+  // {
+  //   avatar: Img2,
+  //   name: 'Dethshot',
+  //   review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi reprehenderit maiores fugiat in voluptatem necessitatibus deleniti. Voluptatem, eius id animi, quos aspernatur velit eligendi fuga dolor, asperiores totam ducimus atque.'
+  // },
+  // {
+  //   avatar: Img5,
+  //   name: 'Wanda Maximoff',
+  //   review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi reprehenderit maiores fugiat in voluptatem necessitatibus deleniti. Voluptatem, eius id animi, quos aspernatur velit eligendi fuga dolor, asperiores totam ducimus atque.'
+  // },
+  // {
+  //   avatar: Img3,
+  //   name: 'Albert Parker',
+  //   review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi reprehenderit maiores fugiat in voluptatem necessitatibus deleniti. Voluptatem, eius id animi, quos aspernatur velit eligendi fuga dolor, asperiores totam ducimus atque.'
+  // },
+  // {
+  //   avatar: Img4,
+  //   name: 'Glaxy Buster',
+  //   review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi reprehenderit maiores fugiat in voluptatem necessitatibus deleniti. Voluptatem, eius id animi, quos aspernatur velit eligendi fuga dolor, asperiores totam ducimus atque.'
+  // },
 ]
 
 const testimonials = () => {

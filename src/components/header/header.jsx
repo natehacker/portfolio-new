@@ -5,7 +5,6 @@ import bnate from '../../assests/bnate.png'
 import HeaderSocial from './headerSocial'
 
 
-
 function header() {
   return (
     <header id='home'>

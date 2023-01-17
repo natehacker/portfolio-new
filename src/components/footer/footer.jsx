@@ -7,7 +7,7 @@ import {FaFigma} from 'react-icons/fa'
 const footer = () => {
   return (
     <footer>
-      <a href="#" className='footer_logo'>OMEGA</a>
+      <a href="#" className='footer_logo'>Nathan Louissaint</a>
 
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
@@ -20,12 +20,12 @@ const footer = () => {
       </ul>
 
       <div className="footer_socials">
-        <a href="www.linkedin.com"><BsLinkedin/></a>
-        <a href="www.github.com"><BsGithub/></a>
+        <a href="https://www.linkedin.com/in/nathan-louissaint/"><BsLinkedin/></a>
+        <a href="https://github.com/natehacker"><BsGithub/></a>
         <a href="www.figma.com"><FaFigma/></a>
       </div>
       <div className="footer_copyright">
-        <small>&copy; OMEGA. All right reserved</small>
+        <small>&copy; Nathan Marc Louissaint. All right reserved</small>
       </div>
     </footer>
   )
