@@ -1,7 +1,7 @@
 import React from 'react'
 import './testimonials.css'
 
-import Img1 from '../../assests/f1.jpg'
+import steve1 from '../../assests/steve1.png'
 // import Img2 from '../../assests/f2.jpg'
 // import Img3 from '../../assests/f3.jpg'
 // import Img4 from '../../assests/f4.jpg'
@@ -20,7 +20,7 @@ import 'swiper/css/pagination';
 
 const data = [
   {
-    avatar: Img1,
+    avatar: steve1,
     name: 'Steve Grayes',
     review: 'iogojg'
   },
